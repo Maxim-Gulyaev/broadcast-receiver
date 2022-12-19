@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BR 2</string>
+    <string name="broadcast_receiver">send broadcast</string>
+    <string name="broadcast_message">Broadcast is received</string>
 </resources>
